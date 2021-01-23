@@ -1,7 +1,5 @@
 ### Hi there, My name is Jess 👋
 
-✨ 
-
 I am a full stack developer with a passion for front-end and experience design. A graduate of Enspiral Dev Academy was a part of the HiHi2020 cohort. I am curious and eager to learn by nature. I am a self-taught designer, from learning the principles to assembling the visual. Looking for work in front-end web dev/design-focused. I am open to doing contract, full-time, and remote positions. 
 
 ✨ 
