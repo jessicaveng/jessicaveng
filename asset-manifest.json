@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jessicaveng/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/jessicaveng/static/js/main.60d871ae.chunk.js",
+    "main.js.map": "/jessicaveng/static/js/main.60d871ae.chunk.js.map",
+    "runtime-main.js": "/jessicaveng/static/js/runtime-main.9fe6d5a4.js",
+    "runtime-main.js.map": "/jessicaveng/static/js/runtime-main.9fe6d5a4.js.map",
+    "static/js/2.6f007d61.chunk.js": "/jessicaveng/static/js/2.6f007d61.chunk.js",
+    "static/js/2.6f007d61.chunk.js.map": "/jessicaveng/static/js/2.6f007d61.chunk.js.map",
+    "static/js/3.b94d2afc.chunk.js": "/jessicaveng/static/js/3.b94d2afc.chunk.js",
+    "static/js/3.b94d2afc.chunk.js.map": "/jessicaveng/static/js/3.b94d2afc.chunk.js.map",
+    "index.html": "/jessicaveng/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/jessicaveng/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.6f007d61.chunk.js.LICENSE.txt": "/jessicaveng/static/js/2.6f007d61.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/jessicaveng/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fe6d5a4.js",
+    "static/js/2.6f007d61.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.60d871ae.chunk.js"
+  ]
+}
