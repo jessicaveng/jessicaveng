@@ -11,8 +11,8 @@ I am a full stack developer with a passion for front-end and experience design. 
 
 ✨ 
 
-- 🔭 I’m currently working on building my personal website ...
-- 🌱 I’m currently learning more about React Library 
+- 🔭 I’m currently working on building my personal website 
+- 🌱 I’m currently learning more about React Library
 - :round_pushpin: Location: Wellington, New Zealand
 - 📫 How to reach me ... jessicaveng@outlook.com  
 - LinkedIn ...  https://www.linkedin.com/in/jessica-veng-0a4477149/ 
