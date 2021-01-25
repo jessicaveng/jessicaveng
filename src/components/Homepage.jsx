@@ -1,9 +1,10 @@
 
 function Home() {
   return (
-   <div>
-       <p>HELLO WORLD</p>
-   </div>
+    <div className="container">
+        <p>HELLO WORLD</p>
+    </div>
+    
   );
 }
 
