@@ -1,0 +1,31 @@
+
+.container{
+  margin: 0;
+  background: #f4f4f2;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  width : 70%;
+  height :  70%;
+
+}
+
+
+// .container{
+//   display: flex;
+//   position: absolute;
+//    top:20%;
+//    left:20%;
+//    right:20%;
+//   margin: auto;
+//   // bottom: 25px;
+//   // right: 162px;
+//   width: 80rem;
+//   height: 80rem;
+//   background: rgba(255,255,255,0.4);
+//   backdrop-filter: blur(10px);
+//   border-radius: 10px;
+//   border: 1px solid rgba(255,255,255,0.2);
+// }

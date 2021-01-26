@@ -1,4 +1,4 @@
-import '../styles/App.scss';
+import '../styles/index.scss';
 import Homepage from './Homepage.jsx';
 function App() {
   return (

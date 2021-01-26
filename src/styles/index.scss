@@ -1,4 +1,6 @@
-@import './App.scss'; 
+@import './homepage.scss'; 
+@import './settings/_settings.global.scss'; 
+
 
 body {
   margin: 0;
@@ -7,6 +9,6 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: black;
+  background-color:#1a1a2e;
 }
 
