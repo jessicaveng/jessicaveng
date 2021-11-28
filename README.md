@@ -13,4 +13,4 @@ Have acheived a Cloud Practitioner Certification, on my way to collect my next o
 
 Interests
 - Human Centred Design 
-- Game Design and Development, because this is where I can be technical and creative at the same time. I can code and still be craetive. Grew my intesrest in the field as I did a game development course in the past and enjoyed. 
+- Game Design and Development
