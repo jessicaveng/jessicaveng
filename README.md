@@ -14,3 +14,4 @@ Have acheived a Cloud Practitioner Certification, on my way to collect my next o
 Interests
 - Human Centred Design 
 - Game Design and Development
+- API Design
