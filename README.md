@@ -1,4 +1,4 @@
-### Hi, my name is Jess 👋
+### Hi there 👋
 
 ✨ 
 
