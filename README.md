@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ✨ 
 
 - :round_pushpin: Location: Wellington, New Zealand
